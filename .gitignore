@@ -4,7 +4,7 @@ pycache/
 .ipynb_checkpoints/
 
 outputs/
-data/
+data/raw
 
 .env
 .DS_Store
