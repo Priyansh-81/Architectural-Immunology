@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+langchain
+langgraph
+pydantic
+typing-extensions
