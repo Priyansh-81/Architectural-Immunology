@@ -21,10 +21,10 @@ class ModelConfig:
     """
 
     # Small shared model
-    small_model: str = "Qwen/Qwen2.5-1.5B-Instruct"
+    small_model: str = "Qwen/Qwen2.5-0.5B-Instruct"
 
     # Heavy reasoning model
-    reasoning_model: str = "microsoft/Phi-3-mini-4k-instruct"
+    reasoning_model: str = "Qwen/Qwen2.5-3B-Instruct"
 
     # Runtime settings
     quantized: bool = True
