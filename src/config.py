@@ -33,7 +33,7 @@ class ModelConfig:
 
     # Generation defaults
     max_new_tokens: int = 256
-    temperature: float = 0.7
+    temperature: float = 0.1
 
 
 # ============================================================
