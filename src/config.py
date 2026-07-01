@@ -27,7 +27,7 @@ class ModelConfig:
     reasoning_model: str = "Qwen/Qwen2.5-3B-Instruct"
 
     # Runtime settings
-    quantized: bool = True
+    quantized: bool = False
     use_flash_attention: bool = False
     device: str = "auto"
 
